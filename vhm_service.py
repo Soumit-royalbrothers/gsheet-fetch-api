@@ -15,7 +15,7 @@ app = FastAPI()
 def hello():
   scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/auth/drive']
   
-  creds = ServiceAccountCredentials.from_json_keyfile_dict(r"/google-credentials.json", scope)
+  creds = ServiceAccountCredentials.from_json_keyfile_name(r"/google-credentials.json", scope)
 
   client = gspread.authorize(creds)
 
