@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gsheet-test-connect",
+  "private_key_id": "0b0a5e44aec0cd80f05e507ce9944d60b1e6a7a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQIo81c3IF1bAg\nTh5e77+x4cYyScTIqtDEJc6fnCxrCM8LNB3TYHlrgbSVjjnAmdWaWene5T6cupg8\nEj2MUaMamJSCtisf8y61SPNmMcQBGW98yPOEYST0AOIZG2ci1E3NBuSiV9J1Q8w8\n/0Y6l56R5eU4R+g2ZyViEP9JE/p8kTqD4rZu5APLyMw65YTJ30owbrbs8IvcAae3\nc6EGOFpVwwpzcJFjUHoZn8sZPrme8UJo7GhDx4GMQ7dTA9ZLc9TA0f8cIP9bYDI/\nBc6qLxdf375I6hl5i6JWsMFXPP+AVjfnEKi/os/HT7EtL9KN/WIHXVxRc7YncIm2\nb3EI1GhHAgMBAAECggEAOkMqVnqSFQsLygdEHiw7u4YpboNS6B9U4Et7CxfzISUu\nnALDRJvxcUQ2MlVFWmJVtmbr/j6q58GeAtbSTti9cSD8FZj7+m4fCZU5uUY+CVa+\n7C3uaQSujPVAVWnj1Y6blsSStNUjrzrCzeJhnN47f7jckQQj/zKhdtGuPJ0wlbSq\nSpX9dwrFyNBPXaLV4n10AUjuHieN4SZ4reDJGZQP4II76xwL1cuyMurkkpnBcyf+\nZDP0sFg32yXs4ePhudRaqU9x5xwJp/ufJYx5aD2m3G2odtbyTu+4z9KY+oOTI2tI\n3bdaLh9g/pi31jzX4RGEKFlGhy2BJTN/ojbZD1V//QKBgQDyd2UPpwPFoH3XzNoZ\naOjvd7N5x+oNEscd9Fu35lkoq856d1k4v8TYu0Mz3V8EdvVM2oEsCdpGe92k7T+p\nVr4V6tMxu4owytATtnN46Y5zb88jUHevVMZN5QwVRlXoe52VpvHjsWuqqm5Z1Y4/\nZyiAVk+mR4TvVmScuOd8Ip9R+wKBgQDbwJpebxEl/CdR3n4+JB+eFwr/Fp11z38K\n5BiS42tTEA0L4X6hXUG989qHdWOjeitXMwbesynhb90YZLyqog6bZ0lrmSWiGUqB\njSWfv9+GPBhS2OsTd7jhDC6n4M7l23WO3/NYXYDbedWXr8HrX1rwKgguDdbo/rXU\nXWlvQXJ9JQKBgC3m6ov/C1jDnG9ZScTbtpV3LNQWQ7n73xRNqXt0MVbgx7MpmwuC\nSorZUMyl0RIwTxogl6m1p8wGMRzDCXVOhafyj87veSbpjmDc/plaZex2s1k1J6Na\nwjwG67WvXh4oINovA8YeVYq2vzNkmYxpRCKftG5/Raxlx6Bf5Pr8Nvs3AoGAPl4j\ncbnD/CvcXPfwjGJkNtIDZPJeLhl9zPF/p/CzfReJHF4bOmDlT6vt0ZQXe0YpFs58\nnKfssva0oT+17BeiXaiqxcbpT2AuLSaKDxS9s7NKk/jMfvHznqt+clbzYXkvnCUj\nQ2kGMUQawro3Jz4g6RiEyc1TuTzRDjyUt+azP6ECgYBKLDzu3B7AmGtxTvTS+LyN\nAx/k31jspQoiMpXtsFKgpUEUgTacVK585SIC7CpaqwzI01alArE1UFZEP9fXPyp6\nZcKtrSfVhKKEIkJ2hgW6fXotV40YOuM0CV5+zpP6cd1hqqRk7x7CmeY5AuhAQopv\nqlvgefJ55HrYlFXSt8VHgw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "royalbrothers-gsheet-access@gsheet-test-connect.iam.gserviceaccount.com",
+  "client_id": "106239810855528430707",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/royalbrothers-gsheet-access%40gsheet-test-connect.iam.gserviceaccount.com"
+}
