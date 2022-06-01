@@ -8,6 +8,8 @@ import pandas as pd
 from fastapi import FastAPI
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
+from fastapi.encoders import jsonable_encoder
+from fastapi.responses import JSONResponse
 
 app = FastAPI()
 
@@ -393,7 +395,9 @@ def hello():
   # display(df)
   # print(df.to_json())
   # return df.to_json()
-  return(df.to_json())
+  # return(df.to_json())
+  json_compatible_item_data = jsonable_encoder(service_bikes)
+  return JSONResponse(content = json_compatible_item_data)
 
 
 #DONE: test google sheets integration 
