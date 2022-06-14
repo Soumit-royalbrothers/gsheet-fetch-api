@@ -34,7 +34,7 @@ def hello():
 
   sheet = client.open('RB Bangalore Oil Change')
 
-  sheet_instance = sheet.get_worksheet(4) 
+  sheet_instance = sheet.get_worksheet(3) 
 
   records_data = sheet_instance.get_all_values()
 
